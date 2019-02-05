@@ -38,8 +38,7 @@ For the details, please check the [functions](FUNCTION.md) page.
 
 - Extract Quest Information
 - Extract Servant Information
-- Remote Control
-- Enhanced Pattern Search
-- Game boundary removal
-- Statistic Report
-- OCR
+- Remote Control [WIP]
+- Enhanced Pattern Search [WIP]
+- Statistic Report [WIP]
+- OCR [WIP]
